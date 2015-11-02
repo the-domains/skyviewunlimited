@@ -2,12 +2,13 @@ name: SkyViewUnlimited
 favicon: null
 layout_spectrum: 0.51207
 typography_spectrum: 0.0857409299351275
+title: Sky View Unlimited
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-69578264-1
   facebook: null
   twitter: null
 opengraph:
