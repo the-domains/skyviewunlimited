@@ -1,0 +1,23 @@
+name: SkyViewUnlimited
+favicon: null
+layout_spectrum: 0.049821312772110105
+typography_spectrum: 0.0857409299351275
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8886874674353749
+  lightness: 0.4174220999702811
+  saturation: 0.2242944398894906
+  rhythmicContrast: 0.9208424822427332
+purpose: []
